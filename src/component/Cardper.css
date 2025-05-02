@@ -1,0 +1,9 @@
+.she{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.df{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
